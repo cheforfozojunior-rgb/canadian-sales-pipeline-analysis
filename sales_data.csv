@@ -1,0 +1,26 @@
+Deal ID,Account,Industry,Region,Product,Stage,Deal Value,Created Date,Owner,Probability %
+D-1001,Northstar Health,Healthcare,Western Canada,Email Security,Prospecting,18500,2026-01-08,Amina,15
+D-1002,Prairie Logistics,Logistics,Prairies,Cloud Security,Qualified,32000,2026-01-12,Noah,35
+D-1003,MapleWorks,Manufacturing,Ontario,Identity Protection,Proposal,47000,2026-01-20,Amina,65
+D-1004,Coastal Legal,Legal,British Columbia,Email Security,Closed Won,26000,2026-02-02,Liam,100
+D-1005,Northern Retail,Retail,Western Canada,Security Awareness,Closed Lost,15500,2026-02-07,Noah,0
+D-1006,Cedar Finance,Financial Services,Ontario,Identity Protection,Negotiation,61000,2026-02-11,Amina,85
+D-1007,Summit Energy,Energy,Prairies,Cloud Security,Qualified,39000,2026-02-18,Liam,40
+D-1008,Metro Education,Education,British Columbia,Email Security,Proposal,28500,2026-03-01,Noah,60
+D-1009,Aurora Foods,Food & Beverage,Prairies,Security Awareness,Closed Won,22000,2026-03-05,Amina,100
+D-1010,Harbour Tech,Technology,British Columbia,Cloud Security,Prospecting,54000,2026-03-14,Liam,20
+D-1011,Capital Construction,Construction,Ontario,Email Security,Closed Lost,33500,2026-03-22,Amina,0
+D-1012,Evergreen Services,Professional Services,Western Canada,Identity Protection,Negotiation,44500,2026-04-02,Noah,80
+D-1013,Red River Transport,Logistics,Prairies,Email Security,Proposal,37500,2026-04-09,Liam,70
+D-1014,Pacific Clinics,Healthcare,British Columbia,Security Awareness,Closed Won,29500,2026-04-17,Amina,100
+D-1015,TrueNorth Media,Media,Ontario,Cloud Security,Qualified,24000,2026-05-03,Noah,45
+D-1016,Rocky Mountain Supply,Wholesale,Western Canada,Identity Protection,Closed Won,41500,2026-05-11,Liam,100
+D-1017,Lakeside Insurance,Insurance,Ontario,Email Security,Negotiation,52000,2026-05-19,Amina,90
+D-1018,West Coast Travel,Travel,British Columbia,Security Awareness,Closed Lost,18000,2026-06-01,Noah,0
+D-1019,Alberta AgriTech,Agriculture,Prairies,Cloud Security,Proposal,48500,2026-06-08,Liam,65
+D-1020,Dominion Telecom,Telecommunications,Ontario,Identity Protection,Closed Won,72000,2026-06-15,Amina,100
+D-1021,Fraser Hospitality,Hospitality,British Columbia,Email Security,Qualified,21500,2026-07-04,Noah,35
+D-1022,Westland Mining,Mining,Western Canada,Cloud Security,Prospecting,58000,2026-07-10,Liam,15
+D-1023,Civic Digital,Public Sector,Prairies,Identity Protection,Proposal,66500,2026-07-18,Amina,70
+D-1024,Urban Fitness,Fitness,Ontario,Security Awareness,Closed Won,19500,2026-08-01,Noah,100
+D-1025,BlueSky Software,Technology,British Columbia,Email Security,Negotiation,57000,2026-08-06,Liam,85
